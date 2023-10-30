@@ -1,0 +1,93 @@
+/* Reset some default browser styles */
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply a background color to the body */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Main container styling */
+#wrapper {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+}
+
+/* Heading styling */
+h1 {
+    font-size: 24px;
+    margin: 0;
+    color: #3498db;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    color: #333;
+    margin: 10px 0;
+}
+
+/* Form styling */
+.form {
+    margin-top: 20px;
+}
+
+/* Label styling */
+label {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Input field styling */
+.guessfield {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px; /* Add margin for spacing */
+}
+
+/* Submit button styling */
+.guesssubmit {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Result paragraphs styling */
+.resultparas {
+    margin-top: 20px;
+}
+
+/* Styling for spans with specific classes */
+.guess {
+    font-weight: bold;
+    color: #3498db;
+}
+
+.last.result {
+    font-weight: bold;
+    color: #e74c3c;
+}
