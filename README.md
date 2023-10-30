@@ -5,3 +5,4 @@ Receive instant feedback on your guesses.
 Track your previous guesses for improved strategy.
 Start a new game to continue the fun.
 Open-source project for easy customization and sharing.
+![screenshot](https://github.com/syedshariqkamran/guess-number-game-/assets/89725524/a7c8d6d9-c093-4338-a377-bd076612f6c3)
